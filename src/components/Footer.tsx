@@ -93,7 +93,7 @@ const Footer = () => {
             {/* Google Maps Embed */}
             <div className="mt-6">
               <iframe
-                src="https://maps.app.goo.gl/3DCQwkrmeCuskiQq9"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2452.574821170589!2d-9.6371127!3d52.069265099999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x484538a15aec1603%3A0x96e79c4ca60bc95c!2sThe%20Inn%20Between%20Bar%20%26%20Restaurant%20%26%20Galvins%20Bar!5e0!3m2!1sen!2stn!4v1755468001357!5m2!1sen!2stn"
                 width="100%"
                 height="150"
                 style={{ border: 0 }}
@@ -101,7 +101,7 @@ const Footer = () => {
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 className="rounded-lg"
-                title="Restaurant Location"
+                title="The Inn Between Bar Location"
               ></iframe>
             </div>
           </div>
