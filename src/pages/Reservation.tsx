@@ -93,7 +93,7 @@ const Reservation = () => {
             Make a Reservation
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Reserve your table at The Inn Between Bar and experience authentic Irish cuisine in a warm, welcoming atmosphere
+            Reserve your table at kelly's restaurant and experience authentic Irish cuisine in a warm, welcoming atmosphere
           </p>
         </div>
 

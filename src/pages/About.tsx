@@ -51,7 +51,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-              About The Inn Between Bar
+              About kelly's restaurant
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
               A family tradition of authentic Italian cuisine, bringing the warmth and flavors of Italy to your table since 2010
@@ -70,7 +70,7 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-gray-600 leading-relaxed">
                 <p>
-                The Inn Between Bar was born from a dream to share the authentic flavors of Italy with our community. 
+                kelly's restaurant was born from a dream to share the authentic flavors of Italy with our community. 
                   Founded by Chef Marco Rossi in 2010, our restaurant has become a beloved destination for those 
                   seeking genuine irish cuisine in a warm, welcoming atmosphere.
                 </p>
@@ -83,7 +83,7 @@ const About = () => {
                 <p>
                   Our commitment goes beyond just great food. We believe in creating memorable experiences, 
                   fostering connections, and treating every guest like family. Whether you're celebrating a 
-                  special occasion or enjoying a casual dinner, The Inn Between Bar is your home away from home.
+                  special occasion or enjoying a casual dinner, kelly's restaurant is your home away from home.
                 </p>
               </div>
               

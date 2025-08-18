@@ -35,7 +35,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link to="/" className="flex-shrink-0">
-            <h1 className="text-3xl lg:text-4xl font-bold text-gray-900">The Inn Between Bar</h1>
+            <h1 className="text-3xl lg:text-4xl font-bold text-gray-900">kelly's restaurant</h1>
           </Link>
 
           {/* Desktop Navigation */}

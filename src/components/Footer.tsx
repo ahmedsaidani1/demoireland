@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Restaurant Info */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold text-amber-400">The Inn Between Bar</h3>
+            <h3 className="text-2xl font-bold text-amber-400">kelly's restaurant</h3>
             <p className="text-gray-300 text-sm leading-relaxed">
               Experience authentic Italian cuisine in the heart of the city. 
               Fresh ingredients, traditional recipes, and warm hospitality.
@@ -101,7 +101,7 @@ const Footer = () => {
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 className="rounded-lg"
-                title="The Inn Between Bar Location"
+                title="kelly's restaurant Location"
               ></iframe>
             </div>
           </div>
@@ -110,7 +110,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 The Inn Between Bar Restaurant. All rights reserved.
+            © 2025 kelly's restaurant Restaurant. All rights reserved.
           </p>
         </div>
       </div>
